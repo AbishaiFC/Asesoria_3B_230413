@@ -15,5 +15,5 @@ En esta seccion se ubicaran los archivos que respalda el análisis previo al dis
 |Integrante|Contacto|Rol|0bservaciones|
 |----------|--------|---|-------------|
 |Brandon Leon Cabrera|[@bleon26]|https://github.com/bleon26|lider de desarrollo frontend|Revisado y Aprobado.
-|Marco A.Ramirez|[@MTI-MarcoRH]|https://github.com/MTI-MarcoRH|Documentador|aun no ha revisado los cambios.
+|Marco A.Ramirez|[@MTI-MarcoRH]|https://github.com/MTI-MarcoRH|Documentador|Formato inadecuado.
 |Osvaldo Abishai Campos Flores|[@AbishaiFC]|https://github.com/AbishaiFC|Documentador|aun no ha revisado los cambios.
