@@ -1,4 +1,4 @@
-# Backend ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+# FrontEnd ![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 
 
 En esta seccion se ubicaran los archivos que respalda el análisis previo al diseño de la aplicacion web.
